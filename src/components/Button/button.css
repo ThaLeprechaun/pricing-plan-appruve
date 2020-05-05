@@ -1,0 +1,9 @@
+.button {
+  font-size: medium;
+  transition: all 0.3s ease-in-out;
+  position: relative;
+  z-index: 99;
+  text-transform: capitalize;
+  overflow: hidden;
+  cursor: pointer;
+}

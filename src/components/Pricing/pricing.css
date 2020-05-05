@@ -1,0 +1,38 @@
+.cardplan--container{
+  width: 15rem;
+  margin: 1rem;
+}
+
+.cardplan__details{
+  text-transform: capitalize;
+  text-align: center;
+  font-size: 15px;
+  margin: 1rem;
+}
+
+.pricelist--container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.pricing--container{
+  width: 100%;
+}
+
+.text-header {
+  color: black;
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 2rem;
+  position: relative;
+  padding-bottom: 1px;
+  font-weight: bold;
+}
+
+.plan-heading{
+  font-size: 25px;
+  font-weight: 400;
+}
