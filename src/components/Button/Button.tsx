@@ -5,6 +5,7 @@ interface ButtonType {
   buttonClass?: React.CSSProperties | any;
   buttonName: string | JSX.Element;
   onClick?: any;
+  style?: string
 }
 
 export default function Button({

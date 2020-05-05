@@ -21,7 +21,7 @@ export default function PricingCard({plan, price, paymentPlan, buttonText, backg
             <p>${price}</p><hr />
             <p>{paymentPlan}</p><hr />
           </div>
-        <Button buttonName={buttonText} />  
+        <Button buttonName={buttonText} buttonClass="cardplan--button"/>  
         </div>
       </Card>
     </>
